@@ -1,0 +1,5 @@
+num = int(input("Digite um número maior que 0: "))
+num_quadrado = (num*num)
+num_cubo = (num*num*num)
+print("O número a o quadrado é: ",num_quadrado)
+print("O número a o cubo é: ",num_cubo)
